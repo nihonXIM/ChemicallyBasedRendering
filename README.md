@@ -8,3 +8,5 @@ It uses a molecular bonding structure method based on electrons,
 which is different from the existing texture-based method.
 
 Our goal is a data-based, algorithm-based surface treatment method.
+
+In connection with this, physical laws can be formed.
