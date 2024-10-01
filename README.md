@@ -10,3 +10,6 @@ which is different from the existing texture-based method.
 Our goal is a data-based, algorithm-based surface treatment method.
 
 In connection with this, physical laws can be formed.
+
+CBR based Physics Simulation
+CBR based Softbody Physics
